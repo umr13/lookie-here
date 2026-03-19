@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Lookie Here uses the camera to detect which monitor you are facing.</string>
+    <key>NSAccessibilityUsageDescription</key>
+    <string>Lookie Here needs accessibility access to focus windows on the monitor you are looking at.</string>
+</dict>
+</plist>
