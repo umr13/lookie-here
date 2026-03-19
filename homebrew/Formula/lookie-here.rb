@@ -1,8 +1,8 @@
 class LookieHere < Formula
   desc "Auto-focus windows on the monitor you're looking at"
-  # TODO: Replace GITHUB_USERNAME with your GitHub username
-  homepage "https://github.com/GITHUB_USERNAME/lookie-here"
-  url "https://github.com/GITHUB_USERNAME/lookie-here.git", tag: "v0.1.0"
+  # TODO: Replace umr13 with your GitHub username
+  homepage "https://github.com/umr13/lookie-here"
+  url "https://github.com/umr13/lookie-here.git", tag: "v0.1.0"
   license "MIT"
 
   depends_on :macos
