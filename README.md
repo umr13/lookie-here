@@ -10,7 +10,7 @@ A macOS menu bar app and CLI that automatically focuses the monitor you're looki
 
 ## Install
 
-### Homebrew
+### Homebrew (coming soon)
 
 ```bash
 brew install lookie-here
